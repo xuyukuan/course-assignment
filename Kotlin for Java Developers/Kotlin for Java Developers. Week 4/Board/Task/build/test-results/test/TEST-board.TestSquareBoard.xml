@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="board.TestSquareBoard" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-02-18T06:56:27" hostname="yukxudeMacBook-Pro.local" time="0.08">
+  <properties/>
+  <testcase name="testAllCells" classname="board.TestSquareBoard" time="0.062"/>
+  <testcase name="testRow" classname="board.TestSquareBoard" time="0.0"/>
+  <testcase name="testRowWrongRange" classname="board.TestSquareBoard" time="0.001"/>
+  <testcase name="testCell" classname="board.TestSquareBoard" time="0.004"/>
+  <testcase name="testRowReversed" classname="board.TestSquareBoard" time="0.005"/>
+  <testcase name="testNeighbour" classname="board.TestSquareBoard" time="0.001"/>
+  <testcase name="testNoCell" classname="board.TestSquareBoard" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

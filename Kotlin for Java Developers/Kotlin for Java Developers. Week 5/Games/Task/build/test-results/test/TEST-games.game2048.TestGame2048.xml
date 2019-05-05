@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="games.game2048.TestGame2048" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-05-05T08:36:06" hostname="yukxudeMacBook-Pro.local" time="0.145">
+  <properties/>
+  <testcase name="testMoves" classname="games.game2048.TestGame2048" time="0.145"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
